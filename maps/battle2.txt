@@ -1,0 +1,34 @@
+timerglobal 1000
+timerfantome 40
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+C MMMMM  E  MMMMM  E  MMMMM C
+C C C C C C C C C C C C C C C
+C MMMMMMM MMMMMMM MMMMMMMMM C
+C C C C C C C C C C C C C C C
+C                           C
+C C C C C C C C C C C C C C C
+C MMMMMMM MMMMMMM MMMMMMMMM C
+C C C C C C C C C C C C C C C
+C       P P       P P       C
+C C C C C C C C C C C C C C C
+C       P P       P P       C
+C C C C C C C C C C C C C C C
+C MMMMMMM MMMMMMM MMMMMMMMM C
+C C C C C C C C C C C C C C C
+C                           C
+C C C C C C C C C C C C C C C
+C MMMMMMM MMMMMMM MMMMMMMMM C
+C C C C C C C C C C C C C C C
+C                           C
+C C C C C C C C C C C C C C C
+C MMMMMMM MMMMMMM MMMMMMMMM C
+C C C C C C C C C C C C C C C
+C       P P       P P       C
+C C C C C C C C C C C C C C C
+C       P P       P P       C
+C C C C C C C C C C C C C C C
+C MMMMMMM MMMMMMM MMMMMMMMM C
+C C C C C C C C C C C C C C C
+C MMMMM  E  MMMMM  E  MMMMM C
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
